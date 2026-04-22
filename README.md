@@ -31,3 +31,5 @@ The model was tested against historical power grid data. Below is a comparison b
 * **DevOps:** Docker, GitHub Actions
 * **Cloud:** AWS (Lambda, ECR)
 * **Tools:** MATLAB (for initial prototyping/testing)
+
+Want to see the pipeline in action? Feel free to play around with the live model [right here](https://your-username.github.io/your-repo-name) using the sample files provided in the `test_data` folder.
